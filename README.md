@@ -1,13 +1,13 @@
 # LibreHardwareMonitor
-[![GitHub license](https://img.shields.io/github/license/LibreHardwareMonitor/LibreHardwareMonitor)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/blob/master/LICENSE) [![Nuget](https://img.shields.io/nuget/v/LibreHardwareMonitorLib)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/LibreHardwareMonitorLib?label=nuget-pre)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget](https://img.shields.io/nuget/dt/LibreHardwareMonitorLib?label=nuget-downloads)](https://www.nuget.org/packages/LibreHardwareMonitorLib/)
+[![GitHub license](https://img.shields.io/github/license/zoltan151/LibreHardwareMonitor)](https://github.com/zoltan151/LibreHardwareMonitor/blob/master/LICENSE) [![Nuget](https://img.shields.io/nuget/v/LibreHardwareMonitorLib)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/LibreHardwareMonitorLib?label=nuget-pre)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget](https://img.shields.io/nuget/dt/LibreHardwareMonitorLib?label=nuget-downloads)](https://www.nuget.org/packages/LibreHardwareMonitorLib/)
 
 Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. 
 
 ## What's included?
 | Name| .NET | Build Status |
 | --- | --- | --- | 
-| **LibreHardwareMonitor** <br /> Windows Forms based application that presents all data in a graphical interface | .NET Framework 4.7.2 <br/> .NET 10.0 | [![Build status](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/actions/workflows/master.yml/badge.svg)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/actions) | 
-| **LibreHardwareMonitorLib** <br /> Library that allows you to use all features in your own application | .NET Framework 4.7.2 <br/> .NET Standard 2.0 <br/> .NET 8.0, .NET 9.0, and .NET 10.0 | [![Build status](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/actions/workflows/master.yml/badge.svg)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/actions) | 
+| **LibreHardwareMonitor** <br /> Windows Forms based application that presents all data in a graphical interface | .NET Framework 4.7.2 <br/> .NET 10.0 | [![Build status](https://github.com/zoltan151/LibreHardwareMonitor/actions/workflows/master.yml/badge.svg)](https://github.com/zoltan151/LibreHardwareMonitor/actions) | 
+| **LibreHardwareMonitorLib** <br /> Library that allows you to use all features in your own application | .NET Framework 4.7.2 <br/> .NET Standard 2.0 <br/> .NET 8.0, .NET 9.0, and .NET 10.0 | [![Build status](https://github.com/zoltan151/LibreHardwareMonitor/actions/workflows/master.yml/badge.svg)](https://github.com/zoltan151/LibreHardwareMonitor/actions) | 
 
 ## What can it do?
 You can read information from devices such as:
@@ -18,10 +18,10 @@ You can read information from devices such as:
 - Network cards
 
 ## Where can I download it?
-You can download the latest release [here](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases).
+You can download the latest release [here](https://github.com/zoltan151/LibreHardwareMonitor/releases).
 
 ### Nightly builds
-If you have a **GitHub** account, you can download nightly builds [here](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/actions). Otherwise, you can download the *latest* nightly build [here](https://nightly.link/LibreHardwareMonitor/LibreHardwareMonitor/workflows/master/master/LibreHardwareMonitor.Windows.Forms.zip).
+If you have a **GitHub** account, you can download nightly builds [here](https://github.com/zoltan151/LibreHardwareMonitor/actions). Otherwise, you can download the *latest* nightly build [here](https://nightly.link/zoltan151/LibreHardwareMonitor/workflows/master/master/LibreHardwareMonitor.Windows.Forms.zip).
 
 ## How can I help improve it?
 The LibreHardwareMonitor team welcomes feedback and contributions!<br/>
@@ -98,9 +98,9 @@ For your safety, please avoid using that site.
 
 Many thanks to all contributors listed below, and to JetBrains for providing tooling.
 
-<a href="https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LibreHardwareMonitor/LibreHardwareMonitor" />
+<a href="https://github.com/zoltan151/LibreHardwareMonitor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zoltan151/LibreHardwareMonitor" />
 </a>
 
 ## License
-LibreHardwareMonitor is free and open source software licensed under MPL 2.0. Some parts of LibreHardwareMonitor are licensed under different terms, see [THIRD-PARTY-LICENSES](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/blob/master/THIRD-PARTY-NOTICES.txt).
+LibreHardwareMonitor is free and open source software licensed under MPL 2.0. Some parts of LibreHardwareMonitor are licensed under different terms, see [THIRD-PARTY-LICENSES](https://github.com/zoltan151/LibreHardwareMonitor/blob/master/THIRD-PARTY-NOTICES.txt).
